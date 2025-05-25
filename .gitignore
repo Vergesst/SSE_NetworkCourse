@@ -4,3 +4,7 @@
 # ide config
 .vscode
 .idea
+
+# docx and pdfs
+**/*.docx
+**/*.pdf
